@@ -17,4 +17,5 @@ The program will be created for educational use only.
 
 ## Wireframes
 ![Alt text](wireframes/Wireframe_Account-Creation.png?raw=true "Account Creation" =100x100)
+<img src="wireframes/Wireframe_Account-Creation.png" width="100" height="100">
 wireframes/Wireframe_Account-Creation.png

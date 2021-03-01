@@ -14,3 +14,5 @@ The program will be created for educational use only.
 - As a User, I want to have a search function to easily find other incidents.
 - As a User, I want to be able to monitor incidents organized according to certain categories.
 - As a User, I want a site that is fast, responsive across devices and easy to use.
+
+## Wireframes

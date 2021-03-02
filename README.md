@@ -17,7 +17,7 @@ The program will be created for educational use only.
 
 ## Wireframes
 |<img src="wireframes/Wireframe_Account-Creation.png" width="513" height="317">|<img src="wireframes/Wireframe_Incident-Overview.png" width="513" height="317">|
-| | |
+------------ | -------------
 
 
 | a | b |

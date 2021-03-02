@@ -16,5 +16,6 @@ The program will be created for educational use only.
 - As a User, I want a site that is fast, responsive across devices and easy to use.
 
 ## Wireframes
-|<img src="wireframes/Wireframe_Account-Creation.png" width="439" height="269">|<img src="wireframes/Wireframe_Incident-Overview.png" width="439" height="269">|
+|<img src="wireframes/Wireframe_Account-Creation.png" width="439" height="269">|<img src="wireframes/Wireframe_Dashboard.png" width="439" height="269">|
 ------------ | -------------
+|<img src="wireframes/Wireframe_Incident-Creation.png" width="439" height="269">|<img src="wireframes/Wireframe_Incident-Overview.png" width="439" height="269">|

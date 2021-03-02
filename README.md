@@ -16,15 +16,5 @@ The program will be created for educational use only.
 - As a User, I want a site that is fast, responsive across devices and easy to use.
 
 ## Wireframes
-|<img src="wireframes/Wireframe_Account-Creation.png" width="513" height="317">|<img src="wireframes/Wireframe_Incident-Overview.png" width="513" height="317">|
+|<img src="wireframes/Wireframe_Account-Creation.png" width="359" height="221">|<img src="wireframes/Wireframe_Incident-Overview.png" width="359" height="221">|
 ------------ | -------------
-
-
-| a | b |
-| a | c |
-
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column

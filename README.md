@@ -1,5 +1,5 @@
 # Bug Tracker
-This project is about designing and developing a basic bug tracker tool for programmers. The goal is for users to be able to to enter and monitor incidents.  
+This project is about designing and developing a basic bug tracker tool for programmers. The goal is for users to be able to enter and monitor incidents.  
 The program will be created for educational use only.
 
 ## Technologies

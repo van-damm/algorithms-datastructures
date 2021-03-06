@@ -11,7 +11,7 @@ The program is created for educational use only and is still in development.
 - As a User, I want to be able to register, update and delete a user account.
 - As a User, I want the ability to create, update and delete my own incidents.
 - As a User, I want to have a dashboard that includes all incidents created by myself and others.
-- As a User, I want to have a search function to easily find other incidents.
+- As a User, I want to have a search function to easily find current and older incidents.
 - As a User, I want to be able to monitor incidents organized according to certain categories.
 - As a User, I want a site that is fast, responsive across devices and easy to use.
 

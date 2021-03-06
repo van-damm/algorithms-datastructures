@@ -8,7 +8,7 @@ The program is created for educational use only and is still in development.
 - [MongoDB](https://www.mongodb.com/3)
 
 ## User Stories
-- As a User, I want to be able to register, update and delete a client account.
+- As a User, I want to be able to register, update and delete a user account.
 - As a User, I want the ability to create, update and delete my own incidents.
 - As a User, I want to have a dashboard that includes all incidents created by myself and others.
 - As a User, I want to have a search function to easily find other incidents.

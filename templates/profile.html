@@ -1,0 +1,44 @@
+{% extends 'index.html' %} {% block content %}
+<div class="container container-tickets">
+  <div class="row">
+    <div class="card card-profile">      
+      <div class="card-content">
+        <form class="row">
+          <div class="row">
+            <span class="card-title teal-text"
+              >{{session['user']['username']}}'s Profile</span
+            >
+          </div>
+          <div class="row">
+            <div class="col s12 m6 l5">
+              <label for="username">Username</label>
+              <p id="username" name="username">
+                {{session['user']['username']}}
+              </p>
+            </div>
+            <div class="col s12 m6 l5">
+              <label for="name">Name</label>
+              <p id="name" name="name">{{session['user']['name']}}</p>
+            </div>
+          <div class="row">
+            <div class="col s12 m6 l6">
+              <label for="email">E-Mail</label>
+              <p id="email" name="email">{{session['user']['email']}}</p>
+            </div>
+          </div>
+          <div class="row right">
+            <div class="col">
+              <a
+                class="btn waves-effect waves-light"
+                href="{{ url_for('edit_profile', username=session['user']['username']) }}"
+              >
+                edit profile
+              </a>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

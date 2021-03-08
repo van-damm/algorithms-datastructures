@@ -1,0 +1,36 @@
+{% block content %}
+<div class="container container-login">
+  <div class="card">
+    <div class="card-content">
+      <form name="login_form" action="{{ url_for('login') }}" method="POST">
+        <div class="row">
+          <div class="input-field row">
+            <i class="material-icons prefix teal-text">account_circle</i>
+            <input id="username" name="username" type="text" class="validate" />
+            <label for="username">Username</label>
+          </div>
+          <div class="input-field row">
+            <i class="material-icons prefix teal-text">vpn_key</i>
+            <input
+              id="password"
+              name="password"
+              type="password"
+              class="validate"
+            />
+            <label for="password">Password</label>
+          </div>
+        </div>
+        <div class="row right-align">
+          <button type="submit" class="waves-effect waves-light btn">
+            Login
+          </button>
+        </div>
+        <div class="row center-align login-links">
+          <a href="{{ url_for('demo_login')}}">Login for Demo Users</a><br />
+          <a href="{{ url_for('signup')}}">Register Account</a><br />
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+{% endblock %}

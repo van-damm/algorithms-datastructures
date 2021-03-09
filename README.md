@@ -21,8 +21,8 @@ The program is created for educational use only and is still under development.
 |<img src="wireframes/Wireframe_Incident-Creation.png" width="439" height="269">|<img src="wireframes/Wireframe_Incident-Overview.png" width="439" height="269">
 
 ## Features
-:egg: Account Registration and Update.  
-:egg: Incident Creation and Update.  
+:hatching_chick: Account Registration and Update.  
+:hatching_chick: Incident Creation and Update.  
 :egg: Dashboard for Incident Monitoring and Statistics.  
 :egg: Search Function for Incidents.  
 :egg: Responsive across Devices.  

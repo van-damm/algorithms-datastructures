@@ -29,5 +29,5 @@ The program is created for educational use only and is still under development.
 
 
 ## Hosting
-A live demo will be hosted on [Heroku](https://www.heroku.com/).
+A live demo will be deployed and hosted on [Heroku](https://www.heroku.com/).
 

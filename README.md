@@ -25,7 +25,7 @@ The program is created for educational use only and is still under development.
 :egg: Incident Creation and Update.  
 :egg: Dashboard for Incident Monitoring and Statistics.  
 :egg: Search Function for Incidents.  
-:egg: Responsive across devices.  
+:egg: Responsive across Devices.  
 
 
 ## Hosting

@@ -18,4 +18,12 @@ The program is created for educational use only and is still under development.
 ## Wireframes
 |<img src="wireframes/Wireframe_Account-Creation.png" width="439" height="269">|<img src="wireframes/Wireframe_Dashboard.png" width="439" height="269">|
 ------------ | -------------
-|<img src="wireframes/Wireframe_Incident-Creation.png" width="439" height="269">|<img src="wireframes/Wireframe_Incident-Overview.png" width="439" height="269">|
+|<img src="wireframes/Wireframe_Incident-Creation.png" width="439" height="269">|<img src="wireframes/Wireframe_Incident-Overview.png" width="439" height="269">
+
+## Features
+:egg: 
+
+
+## Hosting
+A live demo will be hosted on [Heroku](https://www.heroku.com/).
+

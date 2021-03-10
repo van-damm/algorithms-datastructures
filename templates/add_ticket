@@ -1,4 +1,4 @@
-{% extends 'index.html' %} {% include 'navigation_bar.html' %} {% block content %}
+{% extends 'index.html' %} {% include 'navigation_bar.html' %}  {% block content %}
 <div class="container container-tickets">
   <div class="row">
     <div class="card">

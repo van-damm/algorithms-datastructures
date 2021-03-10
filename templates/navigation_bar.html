@@ -1,0 +1,42 @@
+<ul id="dropdown-user" class="dropdown-content">
+  <li>
+    <a href="{{ url_for('profile', username=session['user']['username']) }}">
+      <i class="material-icons">account_circle</i>Profile</a
+    >
+  </li>
+  <li>
+    <a href="{{ url_for('logout') }}"
+      ><i class="material-icons">exit_to_app</i>Logout</a
+    >
+  </li>
+</ul>
+<nav>
+  <div class="nav-wrapper teal">
+    <ul class="right hide-on-med-and-down">
+      <li>
+        <a href="{{ url_for('dashboard') }}"
+          ><i class="material-icons left">dashboard</i>Dashboard</a
+        >
+      </li>
+      <li>
+        <a href="{{ url_for('statistics') }}"
+          ><i class="material-icons left">insights</i>Statistics</a
+        >
+      </li>
+      <li>
+        <a href="{{ url_for('add_ticket') }}"
+          ><i class="material-icons left">add_circle_outline</i>Add Ticket</a
+        >
+      </li>
+      <!-- Dropdown-Trigger -->
+      <li>
+        <a class="dropdown-trigger" href="#!" data-target="dropdown-user"
+          ><i class="material-icons left">account_circle</i>Hello, {{
+          session["user"]["username"] }}<i class="material-icons right"
+            >arrow_drop_down</i
+          ></a
+        >
+      </li>
+    </ul>
+  </div>
+</nav>

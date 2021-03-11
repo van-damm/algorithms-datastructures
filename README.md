@@ -28,6 +28,8 @@ The program is created for educational use only and is still under development.
 :egg: Search Function for Incidents.  
 :egg: Responsive across Devices.  
 
+## SW Testing
+A testing strategy will be detailed in this section.
 
 ## Hosting
 A live demo will be deployed and hosted on [Heroku](https://www.heroku.com/).

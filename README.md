@@ -1,5 +1,5 @@
 # Bug Tracker
-This project is about designing and developing a bug tracker tool for programmers. The goal is for users to be able to enter and monitor incidents. A live demo will be hosted on [Heroku](https://www.heroku.com/).  
+This project is about designing and developing a bug tracker tool for programmers. The goal is for users to be able to enter and monitor incidents and bugs. A live demo will be hosted on [Heroku](https://www.heroku.com/).  
 The program is created for educational use only and is still under development.
 
 ## Technologies

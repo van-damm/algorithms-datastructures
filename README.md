@@ -6,6 +6,7 @@ The program is created for educational use only and is still under development.
 - [Python 3.0](https://www.python.org/)
 - [Flask 1.1](https://flask.palletsprojects.com/en/1.1.x/)
 - [MongoDB](https://www.mongodb.com/3)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
 
 ## User Stories
 - As a User, I want to be able to register, update and delete a user account.

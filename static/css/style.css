@@ -26,7 +26,7 @@ a:hover {
 .container {
     margin-top: 2%;
     margin-bottom: 5%;
-    max-width: 900px;
+    max-width: 850px;
 }
 
 .error {
@@ -39,7 +39,7 @@ a:hover {
 /* ################## Navigation bar ################## */
 
 .navigation-bar-logo {
-    height: 55px;
+    height: 50px;
     margin-left: 10px;
     margin-top: 4px;
 }
@@ -60,7 +60,7 @@ a:hover {
 }
 
 .container-login > .card {
-    min-width: 330px;
+    min-width: 300px;
 }
 
 .login-links {
@@ -72,7 +72,7 @@ a:hover {
 .container-tickets {
     margin-top: 5%;
     margin-bottom: 5%;
-    max-width: 900px;
+    max-width: 850px;
 }
 
 .floating-input {

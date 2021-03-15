@@ -55,7 +55,7 @@ def get_ticket_details(ticket_id):
 class User:
 
     def start_session(self, user):
-        ## Starting user session and loading profile info ##
+        ## Starting user session and loading profile information ##
 
         session["logged_in"] = True
         session["user"] = user

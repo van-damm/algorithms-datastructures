@@ -16,3 +16,36 @@
           />
           {% endif %}
         </div>
+        <form
+          class="row"
+          action="{{ url_for('edit_profile', username=session['user']['username']) }}"
+          method="POST"
+          enctype="multipart/form-data"
+          id="edit_profile_form"
+        >
+          <div class="row">
+            <span class="card-title teal-text">Edit Profile</span>
+          </div>
+          <div class="row">
+            <div class="input-field col s12 m6 l5">
+              <input
+                id="username"
+                name="username"
+                type="text"
+                value="{{session['user']['username']}}"
+                required
+              />
+              <label for="name">Username</label>
+            </div>
+            <div class="row">
+              <div class="input-field col s12 m6 l5">
+                <input
+                  id="name"
+                  name="name"
+                  type="text"
+                  value="{{session['user']['name']}}"
+                  required
+                />
+                <label for="name">Name</label>
+              </div>
+          </div>

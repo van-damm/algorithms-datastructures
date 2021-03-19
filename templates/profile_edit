@@ -109,3 +109,26 @@
             </div>
           </div>
         </form>
+        
+            <!-- Delete Account Modal -->
+        <div id="modal_account" class="modal">
+          <div class="modal-content">
+            <h4>Deleting Your Account Permanently</h4>
+            <p>
+              Are you certain you want to delete your account permanently? You will not be able to restore it afterwards.
+            </p>
+          </div>
+          <div class="modal-footer">
+            <a
+              href="{{ url_for('delete_user', user_id=session['user']['_id']) }}"
+              class="modal-close waves-effect waves-green btn-flat"
+              >Confirm</a
+            >
+            <a class="modal-close waves-effect waves-green btn-flat">Cancel</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% include "footer.html" %} {% endblock %}

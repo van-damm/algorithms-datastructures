@@ -110,7 +110,7 @@
           </div>
         </form>
         
-            <!-- Delete Account Modal -->
+        <!-- Delete Account Modal -->
         <div id="modal_account" class="modal">
           <div class="modal-content">
             <h4>Deleting Your Account Permanently</h4>

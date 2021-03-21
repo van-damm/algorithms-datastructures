@@ -75,7 +75,7 @@ class User:
         return redirect(url_for("login"))
 
     def logout(self):
-        ## Clears the user session ##
+        ## Clears the current user session ##
 
         session.clear()
         flash("You have been successfully logged out.")

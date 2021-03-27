@@ -29,7 +29,7 @@ The program is created for educational use only and is still under development.
 :egg: Responsive across Devices.  
 
 ## Software Testing
-A testing strategy is going to be detailed in this section.
+A testing strategy will be detailed in this section.
 
 ## Hosting
 A live demo will be deployed and hosted on [Heroku](https://www.heroku.com/) platform.

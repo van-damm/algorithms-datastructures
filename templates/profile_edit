@@ -115,7 +115,7 @@
           <div class="modal-content">
             <h4>Deleting Your Account Permanently</h4>
             <p>
-              Are you certain you want to delete your account permanently? You will not be able to restore it afterwards.
+              Are you sure you want to delete your account permanently? You will not be able to restore it afterwards.
             </p>
           </div>
           <div class="modal-footer">

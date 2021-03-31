@@ -32,5 +32,5 @@ The program is created for educational use only and is still under development.
 A testing strategy will be detailed under this section.
 
 ## Hosting
-A live demo will be deployed and hosted on [Heroku](https://www.heroku.com/) platform.
+A live demo is going to be deployed and hosted on [Heroku](https://www.heroku.com/) platform.
 

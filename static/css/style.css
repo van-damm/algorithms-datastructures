@@ -16,7 +16,7 @@ main {
 
 a:hover {
     color: #00284d;
-    transition: ease-in-out 0.6s;
+    transition: ease-in-out 0.7s;
 }
 
 .row:last-child {

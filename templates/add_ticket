@@ -22,7 +22,7 @@
                 class="validate"
                 required
               />
-              <label for="title">Ticket Title</label>
+              <label for="title">Incident Title</label>
             </div>
             <div class="input-field col s12 l4">
               <input

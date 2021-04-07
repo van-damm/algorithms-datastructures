@@ -12,7 +12,7 @@
           {% else %}
           <img
             src="{{ url_for('static', filename='images/avatar.svg') }}"
-            alt="{{session['user']['username']}} Profile Picture"
+            alt="{{session['user']['username']}} Profile Pic"
           />
           {% endif %}
         </div>

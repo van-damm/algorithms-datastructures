@@ -69,7 +69,7 @@
                 class="validate"
                 value=""
               />
-              <label for="password">Change Password</label>
+              <label for="password">Change Your Password</label>
             </div>
           </div>
           <div class="row">

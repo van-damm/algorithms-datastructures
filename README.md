@@ -14,7 +14,7 @@ The program is created for educational use only and is still under development.
 - As a User, I want to have a dashboard that includes all incidents created by myself and others.
 - As a User, I want to have a search function to easily find current and past incidents.
 - As a User, I want to be able to monitor incidents that are being organized according to certain categories.
-- As a User, I want a website that is fast, responsive across devices and easy to use.
+- As a User, I want a website that is fast, responsive across devices and very easy to use.
 
 ## Wireframes
 |<img src="wireframes/Wireframe_Account-Creation.png" width="439" height="269">|<img src="wireframes/Wireframe_Dashboard.png" width="439" height="269">|

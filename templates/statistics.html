@@ -1,0 +1,19 @@
+{% extends 'index.html' %} {% include 'navigation_bar.html' %} {% block content %}
+<div class="container container-tickets">
+  <div class="card">
+    <div class="card-content">
+      <div class="row">
+        <span class="card-title teal-text">Statistics</span>
+      </div>
+      <div class="row">
+        <div class="card-action">
+          <p class="teal-text center card-title">Tickets created by User</p>
+        </div>
+        <div class="col s6 m6 l3 center card-col">
+          <div class="card grey darken-1">
+            <div class="white-text card-stats">
+              <span class="card-title">Open</span>
+              <h4 id="card_open">0</h4>
+            </div>
+          </div>
+        </div>

@@ -4,11 +4,11 @@
     <div class="card">
       <div class="card-content">
         <form
-          id="add_ticket_form"
+          id="add_incident_form"
           class="row"
           method="POST"
           enctype="multipart/form-data"
-          action="{{ url_for('add_ticket') }}"
+          action="{{ url_for('add_incident') }}"
         >
           <div class="row">
             <span class="card-title teal-text">Add Incident</span>

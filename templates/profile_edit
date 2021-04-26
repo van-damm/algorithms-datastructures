@@ -24,7 +24,7 @@
           id="edit_profile_form"
         >
           <div class="row">
-            <span class="card-title teal-text">Edit Profile</span>
+            <span class="card-title teal-text">Edit Your Profile</span>
           </div>
           <div class="row">
             <div class="input-field col s12 m6 l5">

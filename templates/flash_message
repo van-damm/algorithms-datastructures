@@ -1,3 +1,6 @@
 {% with messages = get_flashed_messages() %} 
   {% if messages %} 
     {% for  message in messages %}
+        <div class="row">
+          <p class="toast teal">{{ message }}</p>
+        </div>

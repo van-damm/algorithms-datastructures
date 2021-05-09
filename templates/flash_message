@@ -4,3 +4,6 @@
         <div class="row">
           <p class="toast teal">{{ message }}</p>
         </div>
+    {% endfor %} 
+  {% endif %} 
+{% endwith %}

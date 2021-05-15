@@ -59,7 +59,7 @@
                 value="{{session['user']['email']}}"
                 required
               />
-              <label for="email">E-Mail</label>
+              <label for="email">Email</label>
             </div>
             <div class="input-field col s12 m6 l6">
               <input

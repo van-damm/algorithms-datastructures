@@ -11,7 +11,7 @@
           action="{{ url_for('add_incident') }}"
         >
           <div class="row">
-            <span class="card-title teal-text">Create Incident</span>
+            <span class="card-title teal-text">Create New Incident</span>
           </div>
           <div class="row">
             <div class="input-field col s12 l5">

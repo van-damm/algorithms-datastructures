@@ -51,7 +51,7 @@ a:hover {
     display: flex;
     justify-content: center;
     height: 110%;
-    width: 110%;
+    width: 100%;
 }
 
 .logo-login {
